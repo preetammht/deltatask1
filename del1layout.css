@@ -1,0 +1,23 @@
+.but    {font-size: 25px;
+        margin: 10px;
+        padding: 5px;}
+ body   {
+        background-image: url("bac1.jpg");}
+
+.box    {border-style: solid;
+         border-radius: 10px } 
+.com    {border-style: solid none none none;}
+.remove-button {
+          text-align: right;
+          float: right;
+          font-size: 110%;         
+          display: block;
+          width: 24px;
+          height: 24px;
+          border: none;
+          background: transparent;
+          cursor: pointer;
+              }
+.hidden {
+         display: none;
+         }
